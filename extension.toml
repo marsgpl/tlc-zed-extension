@@ -1,7 +1,11 @@
 id = "tlc"
-name = "Typed Lua Compiler"
+name = "Typed Lua"
 version = "0.0.1"
-schema_version = 1
 authors = ["Iurii Belobeev <marsgpl@gmail.com>"]
-description = "Language server for Typed Lua files"
+description = "Typed Lua support (language server)"
 repository = "https://github.com/marsgpl/tlc-zed-extension"
+schema_version = 1
+
+[language_servers.tlc]
+name = "Typed Lua"
+language = "Typed Lua"

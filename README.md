@@ -1,3 +1,9 @@
-# TLC language extension for Zed text editor
+# Typed Lua support
 
-TLC: <https://github.com/marsgpl/tlc>
+syntax highlight, intelligence for .tlc files
+
+.tlc is a strictly typed Lua dialect file extension
+
+## Prerequisites
+
+install tlc: <https://github.com/marsgpl/tlc>
