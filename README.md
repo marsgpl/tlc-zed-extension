@@ -1,6 +1,6 @@
 # Typed Lua support
 
-syntax highlight, intelligence for .tlc files
+Syntax highlighting and intelligence for .tlc files
 
 .tlc is a strictly typed Lua dialect file extension
 
