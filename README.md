@@ -1,4 +1,4 @@
-# Typed Lua support
+# Typed Lua support for Zed
 
 Syntax highlighting and intelligence for .tlc files
 
@@ -6,4 +6,4 @@ Syntax highlighting and intelligence for .tlc files
 
 ## Prerequisites
 
-install tlc: <https://github.com/marsgpl/tlc>
+Install tlc: <https://github.com/marsgpl/tlc>
